@@ -69,7 +69,7 @@ class _MyAppState extends State<MyApp> {
 
           floatingActionButton: FloatingActionButton.extended(
             onPressed: qscan,
-            label: Text("scan"),
+            label: Text("Scan"),
             icon: Icon(Icons.camera_alt),
           ),
           floatingActionButtonLocation: FloatingActionButtonLocation
